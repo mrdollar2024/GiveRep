@@ -12,5 +12,3 @@ GiveRep – Overvie
 erv
 6
 3
-5
-5

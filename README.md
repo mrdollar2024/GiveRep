@@ -12,6 +12,3 @@ GiveRep – Overview
 
 se  f 
 drf 
-gers
- gsd
- f

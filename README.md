@@ -9,6 +9,3 @@ sdfg
 
 ZXCVD
 DFG
-45
-
-7

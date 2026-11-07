@@ -3,5 +3,4 @@ GiveRep  Reputation Manage
 GiveRep – Overview
 GiveRep  Reputation Manage
 GiveRep – Overview
-GiveRep  Reputation Manage
-1
+GiveRep  Reputation 

@@ -9,6 +9,3 @@ GiveRep – Overview
 
 GiveRep  Reputation 
 
-1
-2
-3

@@ -7,5 +7,5 @@ GiveRep  Reputation Manage
 
 GiveRep – Overview
 
-GiveRep  Reputation 
+GiveRep  R
 
